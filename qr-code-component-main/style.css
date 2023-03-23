@@ -9,8 +9,6 @@
 }
 
 body {
-    height: 500px;
-    margin: 135px auto;
     background-color: hsl(198, 65%, 90%);
     display: flex;
     flex-direction: column;
